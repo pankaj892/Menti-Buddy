@@ -1,5 +1,5 @@
 # Menti-Buddy
-Mental Health bot that can predict the severity of depression 
+Mental Health bot that can predict the severity of depression based on questions answered by users.
 
 Aside from prediction of depression it can also help in
 
