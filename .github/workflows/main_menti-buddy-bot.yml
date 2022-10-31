@@ -50,7 +50,7 @@ jobs:
         uses: azure/webapps-deploy@v2
         id: deploy-to-webapp
         with:
-          app-name: 'menti-buddy-bot'
+          app-name: 'mentalhealthcare-bot'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C48DEC88B364372A3A600BD103D4174 }}
           package: .
