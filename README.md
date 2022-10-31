@@ -10,7 +10,7 @@ Aside from prediction of depression it can also help in
 
 ## To start the mental health screener start by typing "I need mental help"
 
-Project Link can be found - [Here](https://mentalhealthcare-bot-jh57f2nphpeii.azurewebsites.net)
+Project Link can be found - [Here](https://mentalhealthcare-bot-jh57f2nphpeii.azurewebsites.net)👈
 
 Screenshots of Project - 
 
