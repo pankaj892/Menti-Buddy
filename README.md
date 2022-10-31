@@ -23,4 +23,5 @@ Screenshots of Project -
 
 
 
-## This project was part of Future Ready Talent Program
+### Edit: This project was part of Future Ready Talent Program but now will be built independently to add more features.
+### Currently looking for collaborators for this project
