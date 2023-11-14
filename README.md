@@ -9,7 +9,7 @@ Aside from prediction of depression it can also help in
 - Assess the severity of depression
 
 Technologies used - Microsoft Azure
-## To start the mental health screener start by typing "I need mental help"
+## To start the mental health screener start by typing "I need mental help" in the box
 
 Project can be found - [Here](https://mentalhealthcare-bot-jh57f2nphpeii.azurewebsites.net)👈
 
